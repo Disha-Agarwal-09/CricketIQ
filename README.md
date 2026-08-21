@@ -115,16 +115,7 @@ Some features that can be added in future versions include:
 
 ---
 
-## Screenshots
 
-_Add screenshots of the dashboard here._
-
-Example:
-
-- Home Page
-- Match Prediction
-- Analytics Dashboard
-- Venue Intelligence
 
 ---
 
